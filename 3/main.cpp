@@ -1,7 +1,17 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+/*
+Suppose, you have to save user search history (a single word) of a mobile application on local storage. According
+to the application requirements, you need to save only the last 5 search words. You can’t increase the memory on
+local storage by saving all data. Write a functional program to save the last 5 keywords. Here are the last 5 saved
+words: Xmas Gift Tree Light People (save these in an array or in a list first). Loop the program for 2 times and then
+terminate.
+Test1
+Storage: Gift Tree Light People Test1
+Test2
+Storage: Tree Light People Test1 Test2
+*/
 int main()
 {
     //string arr[]={"Xmas","Gift","Three","Light","People"};
